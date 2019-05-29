@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_api/microserviceCloud_api.iml" filepath="$PROJECT_DIR$/microserviceCloud_api/microserviceCloud_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_consumer_dept_80/microserviceCloud_consumer_dept_80.iml" filepath="$PROJECT_DIR$/microserviceCloud_consumer_dept_80/microserviceCloud_consumer_dept_80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_eureka_7001/microserviceCloud_eureka_7001.iml" filepath="$PROJECT_DIR$/microserviceCloud_eureka_7001/microserviceCloud_eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_eureka_7002/microserviceCloud_eureka_7002.iml" filepath="$PROJECT_DIR$/microserviceCloud_eureka_7002/microserviceCloud_eureka_7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_eureka_7003/microserviceCloud_eureka_7003.iml" filepath="$PROJECT_DIR$/microserviceCloud_eureka_7003/microserviceCloud_eureka_7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_provider_dept_8001/microserviceCloud_provider_dept_8001.iml" filepath="$PROJECT_DIR$/microserviceCloud_provider_dept_8001/microserviceCloud_provider_dept_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_provider_dept_8002/microserviceCloud_provider_dept_8002.iml" filepath="$PROJECT_DIR$/microserviceCloud_provider_dept_8002/microserviceCloud_provider_dept_8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud_provider_dept_8003/microserviceCloud_provider_dept_8003.iml" filepath="$PROJECT_DIR$/microserviceCloud_provider_dept_8003/microserviceCloud_provider_dept_8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircoserviceCloud.iml" filepath="$PROJECT_DIR$/mircoserviceCloud.iml" />
+    </modules>
+  </component>
+</project>
